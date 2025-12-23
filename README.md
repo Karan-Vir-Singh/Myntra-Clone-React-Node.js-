@@ -82,7 +82,7 @@ npm run dev
 Frontend will run on:
 http://localhost:5173
 
-Screenshots/Product%20selection.png
+![Screenshot](Screenshots/Product%20selection.png)
 
 🔗 Connecting Frontend & Backend
 
