@@ -2,6 +2,8 @@
 
 This project is a simple Myntra Clone built using React (Vite) for the frontend and Node.js + Express for the backend.
 
+![Screenshot](Screenshots/Myntra%20home.png)
+
 📁 Project Structure
 myntra-clone-react-main/
 │
@@ -62,6 +64,7 @@ npm start
 Backend will run on:
 http://localhost:3000
 
+![Screenshot](Screenshots/Checkout%20page.png)
 
 🎨 Frontend Setup (React + Vite)
 
@@ -79,6 +82,7 @@ npm run dev
 Frontend will run on:
 http://localhost:5173
 
+Screenshots/Product%20selection.png
 
 🔗 Connecting Frontend & Backend
 
